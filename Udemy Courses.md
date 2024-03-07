@@ -1,0 +1,18 @@
+# Udemy Courses
+
+1. **Adobe Premiere Pro CC Video Editing Course for Beginners by Vinod Kj  [**[link](https://www.udemy.com/course/video-editing-and-simplified-hacks-for-adobe-premiere-pro-cc/)]
+2. **Applied Ethical Hacking and Rules of Engagement by Seyed Farshid Miri, Seyed Farhad Miri [**[link](https://www.udemy.com/course/applied-ethical-hacking-and-rules-of-engagement/)]
+3. **Python Programming - From Basics to Advanced level [2024] by EdYoda Digital University, Dipesh Sharma [**[link](https://www.udemy.com/course/python-programming-beginner-to-advanced/)]
+4. **Python GUI | Practical Projects in Python: Build 3 Projects by Daniel IT [**[link](https://www.udemy.com/course/practical-project-in-python-and-qml3/)]
+5. **WiFi Hacking using Evil Twin Attacks and Captive Portals by Juravlea Nicolae [**[link](https://www.udemy.com/course/evil-twin-and-captive-portals/)]
+6. **Learn Hacking Using Social Engineering by Juravlea Nicolae [**[link](https://www.udemy.com/course/social-engineering-attacks/)]
+7. **Adobe Premiere Pro CC Video Editing Course Beginners To Pro by Stephen Koel Soren [**[link](https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-beginners-to-professional/)]
+8. **YouTube Academy: Complete Beginner to Pro Step-by-Step by Dan Britain [**[link](https://www.udemy.com/course/youtubeacademy/)]
+9. **Android Hacking: Ethical Hacking for Android Apps & Devices by Muharrem AYDIN, OAK Academy Team [**[link](https://www.udemy.com/course/ethical-hacking-for-android-apps-and-devices/)]
+10. **Machine Learning From Basic to Advanced by Code Warriors, Anup Mor, Gaurav Sharma, Mayank Bajaj [**[link](https://www.udemy.com/course/machine-learning-course/)]
+11. **Learn Ethical Hacking From Scratch by Zaid Sabih, z Security [Rs 300]  [**[link](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)]
+12. **Make Money From Home: 12 EASY Options to Make Money Now by Roope Kiuttu [**[link](https://www.udemy.com/course/make-easy-money-from-home/)]
+13. **Practical Java Basics Course with Real-life Examples by Sandor Szekeres [**[link](https://www.udemy.com/course/practical-java-course-for-beginners/)]
+14. **Java Course for Complete Beginners with Practical Examples by Sandor Szekeres [**[link](https://www.udemy.com/course/practical-java-course/)]
+15. **Software development in Python: A practical approach by Daniel IT [**[link](https://www.udemy.com/course/software-development-in-python-a-practical-approach/)]
+16. **Adobe Premiere Pro CC Video Editing Course for Beginners by Vinod Kj [**[link](https://www.udemy.com/course/video-editing-and-simplified-hacks-for-adobe-premiere-pro-cc/)]
